@@ -1,24 +1,28 @@
-# IS 7024 XML & Webservices Project (Web Site Name)
+# MOVIEFLEX
 ---
 ### Introduction:
 
-Any idea where we can get list of movies? Not just that, now all information about the movies will be just one-click away.
-"Website Name" will help you wiht following:
-- Search movies of different genre
+Looking for a next movie or show ? You are in the right place - Movieflex, get all the information about the movies and tvshows with just one-click.
+**MOVIEFLEX** enables you with following:
+
+- Search movies/tvshows of different genre, search all, Advanced Search
 - Display the details of specific movie
 - Filter movies based Release Year & Country
 - Add reviews for a specific movie
+- Top movies/ shows list
 ---
 ### Logo:
-
+![Logo](https://user-images.githubusercontent.com/77502128/197602797-e214cafb-158c-417b-883c-f596619f2614.png)
 ---
 ### Storyboard:
+
 ---
 
 ### Functional Requirements:
 ---
 
 ### Data Source:
+
 ---
 
 ### Team Composition:
