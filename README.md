@@ -15,14 +15,15 @@ Looking for a next movie or show ? You are in the right place - Movieflex, get a
 ![Logo](https://user-images.githubusercontent.com/77502128/197602797-e214cafb-158c-417b-883c-f596619f2614.png)
 ---
 ### Storyboard:
-
+![Home Page](https://user-images.githubusercontent.com/77502128/197637639-5844fdfb-be6c-4e17-a0ba-c63b94f6be9b.png)
 ---
 
 ### Functional Requirements:
 ---
 
 ### Data Source:
-
+- [IMDB Movie Data API](https://imdb-api.com/)
+- [OMDB Movie Data API](http://www.omdbapi.com/)
 ---
 
 ### Team Composition:
