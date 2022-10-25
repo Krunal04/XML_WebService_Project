@@ -44,9 +44,3 @@ Tuesday 1:10 PM on Zoom
 
 Meeting ID: 861 1090 8327
 Passcode: 4jJBAH
-
-
-
-
-
-
